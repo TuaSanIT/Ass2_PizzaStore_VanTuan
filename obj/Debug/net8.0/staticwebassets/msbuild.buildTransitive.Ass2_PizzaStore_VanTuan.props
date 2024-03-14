@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ass2_PizzaStore_VanTuan.props" />
+</Project>

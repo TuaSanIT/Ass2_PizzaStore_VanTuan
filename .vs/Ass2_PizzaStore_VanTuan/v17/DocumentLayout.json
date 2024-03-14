@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\productpages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\productpages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\customerspages\\updateprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\customerspages\\updateprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\orderpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\orderpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\orderpages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\orderpages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\orderpages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\orderpages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\orderpages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\orderpages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\orderpages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\orderpages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\orderpages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\orderpages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|d:\\code\\c#\\ass2_vantuan_de160343\\ass2_pizzastore_vantuan\\pages\\orderpages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3533452-1031-4493-A96B-0A07AE71413E}|Ass2_PizzaStore_VanTuan.csproj|solutionrelative:pages\\orderpages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProfile.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\CustomersPages\\UpdateProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\CustomersPages\\UpdateProfile.cshtml.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\CustomersPages\\UpdateProfile.cshtml.cs",
+              "RelativeToolTip": "Pages\\CustomersPages\\UpdateProfile.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:53:28.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:48:25.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\ProductPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductPages\\Create.cshtml.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\ProductPages\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\ProductPages\\Create.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwCEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:47:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderPages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderPages\\Index.cshtml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:40:27.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderPages\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderPages\\Edit.cshtml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:39:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderPages\\Details.cshtml.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderPages\\Details.cshtml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:39:03.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderPages\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\OrderPages\\Delete.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T16:38:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderPages\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderPages\\Delete.cshtml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwD0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:38:20.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderPages\\Create.cshtml.cs",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderPages\\Create.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:38:05.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderPages\\Admin.cshtml",
+              "ToolTip": "D:\\Code\\C#\\Ass2_VanTuan_De160343\\Ass2_PizzaStore_VanTuan\\Pages\\OrderPages\\Admin.cshtml",
+              "RelativeToolTip": "Pages\\OrderPages\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T16:35:50.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

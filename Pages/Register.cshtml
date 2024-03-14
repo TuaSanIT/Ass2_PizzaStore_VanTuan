@@ -1,0 +1,44 @@
+﻿@page
+@model Ass2_PizzaStore_VanTuan.Pages.RegisterModel
+@{
+}
+<form method="post">
+	<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+	<div class="container py-5 h-100">
+		<div class="row d-flex justify-content-center align-items-center h-100">
+			<div class="col-12 col-md-8 col-lg-6 col-xl-5">
+				<div class="card shadow-2-strong" style="border-radius: 1rem;">
+					<div class="card-body p-5 ">
+						<h3 class="mb-5 text-center">Sign in</h3>
+						<div class="form-outline mb-4">
+							<input placeholder="username"
+								   asp-for="@Model.UserRegister.username"
+								   class="form-control form-control-lg" />
+							<span asp-validation-for="@Model.UserRegister.username" class="text-danger"></span>
+						</div>
+						<div class="form-outline mb-4">
+							<input type="password" placeholder="password" asp-for="@Model.UserRegister.password" class="form-control form-control-lg" />
+							<span asp-validation-for="@Model.UserRegister.password" class="text-danger"></span>
+						</div>
+						<div class="form-outline mb-4">
+							<input  placeholder="Full Name" asp-for="@Model.UserRegister.fullName" class="form-control form-control-lg" />
+							<span asp-validation-for="@Model.UserRegister.fullName" class="text-danger"></span>
+						</div>
+						<div class="form-outline mb-4">
+							<input placeholder="Address" asp-for="@Model.UserRegister.address" class="form-control form-control-lg" />
+							<span asp-validation-for="@Model.UserRegister.address" class="text-danger"></span>
+						</div>
+						<div class="form-outline mb-4">
+							<input type="number" placeholder="Phone" asp-for="@Model.UserRegister.phone" class="form-control form-control-lg" />
+							<span asp-validation-for="@Model.UserRegister.phone" class="text-danger"></span>
+						</div>
+
+					</div>
+					<button class="btn btn-primary btn-lg btn-block" type="submit">Register</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+</form>
